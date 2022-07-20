@@ -13,13 +13,3 @@ Tech stack:
 5. Solidity for smart contracts 
 6. Used Next JS for the frontend and Material UI for the components. 
 
-
-Hardhat basic commands:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
